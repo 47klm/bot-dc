@@ -1,0 +1,6 @@
+discord.py
+spotipy
+yt-dlp
+PyNaCl
+Flask
+aiohttp

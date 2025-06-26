@@ -1,0 +1,15 @@
+{
+    "1376211301034098698": {
+        "auto_role_id": 1376949091816443935,
+        "welcome_channel_id": 1376221271284646050,
+        "goodbye_channel_id": 1376221271284646050,
+        "ticket_category_id": 1376212328512491543,
+        "ticket_staff_role_id": 1376949091816443935,
+        "verification_role_id": 1376949091816443935
+    },
+    "1387453104772878426": {
+        "ticket_category_id": 1387453105456681000,
+        "ticket_staff_role_id": 1387453230933610598,
+        "verification_role_id": 1387453230933610598
+    }
+}
